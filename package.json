@@ -1,0 +1,22 @@
+{
+  "name": "restful-api-node-simple-example",
+  "version": "1.0.0",
+  "description": "Simple RESTful API with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barry36/RESTful-API-node-simple-example.git"
+  },
+  "author": "Barry Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barry36/RESTful-API-node-simple-example/issues"
+  },
+  "homepage": "https://github.com/Barry36/RESTful-API-node-simple-example#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
